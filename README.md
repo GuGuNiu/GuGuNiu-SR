@@ -4,7 +4,7 @@
 
 <div align="center"> 
   
-  [![访问量](https://profile-counter.glitch.me/GuGuNiu-SR-Waves-ZZZ/count.svg)](https://github.com/GuGuNiu/GuGuNiu-SR-Waves-ZZZ/)
+  [![访问量](https://profile-counter.glitch.me/GuGuNiu-SR/count.svg)](https://github.com/GuGuNiu/GuGuNiu-SR/)
   
 </div>
 
